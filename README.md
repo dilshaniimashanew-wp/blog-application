@@ -140,7 +140,7 @@ The `uploads` folder needs write permissions:
 ### Step 7: Test Your Installation
 
 1. Open your browser
-2. Navigate to: `http://your-domain.com` or `http://localhost/Blog_Chain`
+2. Navigate to: `https://myblogapp.infinityfreeapp.com/` or `http://localhost/Blog_Chain`
 3. You should see the Blog_Chain homepage
 
 #### Test Login:
@@ -467,5 +467,6 @@ Thank you for using Blog_Chain! If you find it useful, please star the repositor
 **Happy Blogging! 🔗✨**
 
 ---
+
 
 *Last Updated: November 2025*
